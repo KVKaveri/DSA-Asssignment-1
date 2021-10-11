@@ -12,4 +12,3 @@ Questions:
 4.Write a C program to benchmark the performance of Selection Sort and Bubble Sort. Total input items may be randomly generated and already sorted. You have to tell your story using the bar chart as given below for an example.
 
 
-<img width="589" alt="Sorted inputs" src="https://user-images.githubusercontent.com/90706490/136739766-fbbac7f5-be0e-460b-bf57-7395b3c1f2db.png">
